@@ -9,3 +9,4 @@ Python classes for Business
 5. Ruben Rodriguez
 6. Julissa Rodriguez
 7. Alexandra Conislla
+8. Israel Gonzales
