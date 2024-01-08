@@ -17,3 +17,9 @@ Python classes for Business
 3. Tekken 7
 4. Counter Strike
 5. Crash
+
+## Peruvian Rappers
+1. Norick
+2. Warrior
+3. El Dedos
+4. Mseco
