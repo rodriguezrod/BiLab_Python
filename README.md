@@ -23,3 +23,10 @@ Python classes for Business
 2. Warrior
 3. El Dedos
 4. Mseco
+
+##Schools
+1. Trilce
+2. Saco Oliveros
+3. Pamer
+4. Claretiano
+5. Tungasuca
