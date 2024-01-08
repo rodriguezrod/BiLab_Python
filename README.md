@@ -24,7 +24,7 @@ Python classes for Business
 3. El Dedos
 4. Mseco
 
-##Schools
+## Schools
 1. Trilce
 2. Saco Oliveros
 3. Pamer
